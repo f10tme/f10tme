@@ -1,4 +1,4 @@
-# PHP Dersleri
+# PHP Ders Adımları
 ------------
 
 ### Başlangıç
