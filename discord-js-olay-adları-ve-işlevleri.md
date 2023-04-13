@@ -1,4 +1,4 @@
-| Olay Adı                       | Açıklama                                       |
+| Olay Adı                       | İşlevi                                         |
 |--------------------------------|------------------------------------------------|
 | applicationCommandCreate       | Uygulama komutu oluşturulduğunda tetiklenir    |
 | applicationCommandDelete       | Uygulama komutu silindiğinde tetiklenir        |
