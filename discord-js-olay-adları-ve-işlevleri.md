@@ -56,7 +56,6 @@
 | threadCreate               | Bir kanalda bir konu başlığı oluşturulduğunda tetiklenir |
 | threadDelete               | Bir kanaldaki bir konu başlığı silindiğinde tetiklenir |
 | threadListSync             | Konu başlıklarını senkronize etmek için kullanılır |
-| threadMembersUpdate        | Konu başlığındaki üye listesi güncellendiğinde tetiklenir |
 | threadMemberUpdate         | Bir kullanıcının konu başlığındaki izinleri güncellediğinde tetiklenir |
 | threadUpdate               | Bir konu başlığı güncellendiğinde tetiklenir |
 | typingStart | Bir kullanıcı bir mesaj yazmaya başladığında tetiklenir |
