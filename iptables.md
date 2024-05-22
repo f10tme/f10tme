@@ -1,0 +1,11 @@
+# IPTABLES Kullanımı
+- Temel Parametreler
+   - -I (INSERT): Belirtilen zincirin başına yeni kural ekler.
+   - -A (APPEND): Belirtilen zincirin sonuna yeni bir kural ekler.
+   - -D (DELETE): Belirtilen zincirdeki id li kuralı siler.
+   - -R (REPLACE): Belirtilen zincirdeki mevcut kuralı yenisiyle değiştrir.
+   - -L (LIST): Mevcut zincir kurallarını listeler.
+   - -F (FLUSH): Belirtilen kuraldaki tüm kuralları temizler.
+   - -Z (ZERO): Zincirdeki paket ve bayt sayaçlarını sıfırlar.
+   - -N (NEW CHAIN): Yeni bir zincir oluşturur.
+   - -X (DELETE CHAIN): Belirilen zinciri siler.
